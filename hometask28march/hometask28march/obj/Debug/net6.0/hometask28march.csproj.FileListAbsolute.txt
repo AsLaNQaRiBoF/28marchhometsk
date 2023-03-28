@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\BB 204\hometask28march\hometask28march\bin\Debug\net6.0\hometask28march.exe
+C:\Users\USER\Desktop\BB 204\hometask28march\hometask28march\bin\Debug\net6.0\hometask28march.deps.json
+C:\Users\USER\Desktop\BB 204\hometask28march\hometask28march\bin\Debug\net6.0\hometask28march.runtimeconfig.json
+C:\Users\USER\Desktop\BB 204\hometask28march\hometask28march\bin\Debug\net6.0\hometask28march.dll
+C:\Users\USER\Desktop\BB 204\hometask28march\hometask28march\bin\Debug\net6.0\hometask28march.pdb
+C:\Users\USER\Desktop\BB 204\hometask28march\hometask28march\obj\Debug\net6.0\hometask28march.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\BB 204\hometask28march\hometask28march\obj\Debug\net6.0\hometask28march.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\BB 204\hometask28march\hometask28march\obj\Debug\net6.0\hometask28march.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\BB 204\hometask28march\hometask28march\obj\Debug\net6.0\hometask28march.AssemblyInfo.cs
+C:\Users\USER\Desktop\BB 204\hometask28march\hometask28march\obj\Debug\net6.0\hometask28march.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\BB 204\hometask28march\hometask28march\obj\Debug\net6.0\hometask28march.dll
+C:\Users\USER\Desktop\BB 204\hometask28march\hometask28march\obj\Debug\net6.0\refint\hometask28march.dll
+C:\Users\USER\Desktop\BB 204\hometask28march\hometask28march\obj\Debug\net6.0\hometask28march.pdb
+C:\Users\USER\Desktop\BB 204\hometask28march\hometask28march\obj\Debug\net6.0\hometask28march.genruntimeconfig.cache
+C:\Users\USER\Desktop\BB 204\hometask28march\hometask28march\obj\Debug\net6.0\ref\hometask28march.dll
